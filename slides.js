@@ -1,4 +1,3 @@
-(function () {
 var SLIDES = [
 	{
 		"cls": "first",
@@ -403,8 +402,3 @@ var SLIDES = [
 		"twitter": "wrumsby"
 	}
 ];
-
-window.getSlides = function() {
-	return SLIDES;
-}
-}());
